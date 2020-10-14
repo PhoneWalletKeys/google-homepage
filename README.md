@@ -1,2 +1,2 @@
 # google-homepage
-My goal is to showcase the concepts I have been learning over the last couple of weeks.
+The assignment is to deconstruct the google homepage and to replicate it as closely as possible using what I have learned over the last few weeks.
